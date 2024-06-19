@@ -1,2 +1,2 @@
-_G.Version = "X.2";
-_G.binaryData = "TkRSb25UT1AyMDI0";
+game:GetService("StarterGui"):SetCore("SendNotification", {Title = "NDR-Infistats", Text = "The beta version is already over :P"})
+game:GetService("StarterGui"):SetCore("SendNotification", {Title = "NDR-Infistats", Text = "La version beta ya se terminó :P"})
